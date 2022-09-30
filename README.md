@@ -3,7 +3,7 @@
 
 ### Credential
 <p align="center">
-<img alt="Applied Data Science Capstone" title="Applied Data Science Capstone" src="https://images.credly.com/size/680x680/images/60f2e1e1-1b74-4dc0-a24b-cd08b460c12d/Applied_Data_Science_Capstone.png" width="556px" height="276px"/></p>
+<img alt="Applied Data Science Capstone" title="Applied Data Science Capstone" src="https://images.credly.com/size/680x680/images/60f2e1e1-1b74-4dc0-a24b-cd08b460c12d/Applied_Data_Science_Capstone.png" width="556px" height="556px"/></p>
 
 ## Synopsis
 This is a project skeleton having full structure of an deployable `python3` project. It includes a startup `bash` script, a `Dockerfile` to build the image with `centos`, a `setup.py` to build into _wheel_ or _egg_ distribution to apply the required activity in the course for the credential
